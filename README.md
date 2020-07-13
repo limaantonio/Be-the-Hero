@@ -13,7 +13,7 @@
 
 ## 🗒 Sobre
 
-O **Be The Hero** é um projeto Full-Stack que foi criado durante a **SemanaOmniStack 11**, como o objetivo de ampliar nossos conhecimentos sobre o React, React Native e NodeJS. 
+O **Be The Hero** é um projeto Full-Stack que foi criado durante a **SemanaOmniStack 11** com o objetivo de ampliar nossos conhecimentos sobre o React, React Native e NodeJS. 
 
 ---
 
