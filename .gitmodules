@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/limaantonio/semanaOmniStack11-backend
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/limaantonio/semanaOmniStack11-mobile
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/limaantonio/semanaOmniStack11-frontend
